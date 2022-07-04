@@ -1,0 +1,40 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+.details {
+    display: flex;
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+
+.flex-div {
+    width: 50%;
+    padding-left: 6%;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.orange {
+    color: #FFA501;
+}
+
+.hire-btn {
+    font-size: 18px;
+    color: #fff;
+    background-color: #FFA501;
+    padding: 10px 40px;
+    text-decoration: none;
+    border-radius: 4px;
+}
+
+/* .content_img {
+    width: 50%;
+} */
+
+.content_img img {
+    width: 100%;
+}
