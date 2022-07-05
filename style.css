@@ -29,12 +29,42 @@ h1 {
     padding: 10px 40px;
     text-decoration: none;
     border-radius: 4px;
+    text-transform: uppercase;
 }
-
-/* .content_img {
-    width: 50%;
-} */
 
 .content_img img {
     width: 100%;
+}
+
+.dream {
+    display: flex;
+    background-image: url(images/dream-bg.png);
+    background-position: right;
+    background-repeat: no-repeat;
+}
+
+.p-r {
+    padding-right: 6%;
+}
+
+.expe {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+}
+
+.ex-tittle {
+    padding-left: 6%;
+}
+
+.xm {
+    display: flex;
+}
+
+/* .e-item {
+    border: 1px solid #000;
+} */
+
+.foter-p {
+    text-align: center;
+    text-transform: capitalize;
 }
